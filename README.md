@@ -1,4 +1,4 @@
-# Dragable Todo
+# Draggable Todo
 A drag and drop sortable todo list in Rails.
 
 ## Demo
@@ -16,7 +16,7 @@ A drag and drop sortable todo list in Rails.
 * Clone this repo.
 
 ```
-git clone https://github.com/jacobsteves/Rails-Dragable-Todo.git
+git clone https://github.com/jacobsteves/Rails-Draggable-Todo.git
 ```
 
 * Initialize our local repo: 
@@ -31,7 +31,7 @@ rails s
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/jacobsteves/Rails-Dragable-Todo/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/jacobsteves/Rails-Draggable-Todo/tags).
 
 ## License
 
